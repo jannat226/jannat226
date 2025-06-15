@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 - Email: lnuj3@vcu.edu
 - LinkedIn: linkedin.com/in/jannat-chehal/
+- Portfolio: https://portfolio2025-alpha.vercel.app/
 
 😄 Pronouns: She/Her
 ⚡ Fun fact: My mental reset from all the coding is a good game of tennis! 🎾
