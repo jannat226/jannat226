@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 📫 How to reach me:
 
 - Email: lnuj3@vcu.edu
-- LinkedIn: linkedin.com/in/jannat-chehal/
+- LinkedIn: https://linkedin.com/in/jannat-chehal/
 - Portfolio: https://devjannat.com
 
 😄 Pronouns: She/Her
