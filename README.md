@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm  Jannat, a Computer Science MS student at VCU, focusing on Natural Language Processing (NLP), Data Science (ML/DL), and Full Stack Development. When not coding, I'm usually solving problems or hitting the tennis court.
-- Research Assistant @ VCU NLP Lab: Building relationship extraction models (PyTorch).
+- I'm  Jannat, a PhD student at VCU, focusing on Machine Learning, Natural Language Processing (NLP). When not coding, I'm usually solving problems, exploring new hobbies or hitting the tennis court.
+
 
 🌱 I’m currently exploring / learning:
 - Advanced NLP (relationship extraction).
